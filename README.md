@@ -1,4 +1,3 @@
 # Ganesh
-This is my first Repository
-<br>
+This is my first Repository <br>
 My name is Ganesh
